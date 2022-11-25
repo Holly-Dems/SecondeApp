@@ -15,6 +15,7 @@
             android:id="@+id/name"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/layout_margin"
             android:paddingTop="@dimen/small_padding"
             android:text="@string/name"
             android:textAlignment="center"
